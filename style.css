@@ -23,6 +23,7 @@ body{
     place-items: center;
     background-color: var(--blue);
     font-size: 10px;
+    font-family: 'Outfit', sans-serif;
 }
 .card{
     width: 290px;
@@ -49,7 +50,7 @@ body{
     text-align: center;
 }
 .card__body h2{
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     color: var(--shadow-blue);
     font-weight: var(--fw-700);
 }
